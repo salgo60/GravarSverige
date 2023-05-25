@@ -15,8 +15,8 @@ OBS allt d[ata i Wikidata är fritt att använda CC:0](https://www.wikidata.org/
 ### Wikidata gravar med koordinat
 Vi har idag ung 4000 svenska gravar med kooridinat min känsla är att koordinat är svårt att få och hittas enklast i Stockholm om man inte är ute och "karterar" själv ;-)
 
-* [karta](https://w.wiki/6kd9) / lista 
-  * svenska gravar utan "egen" koordinat men placerad på en kyrkogård i Sverige
+* [karta](https://w.wiki/6ke3) / [lista](https://w.wiki/6kdt) / [endast gravar med bild](https://w.wiki/6kd$)
+  * svenska gravar utan "egen" koordinat men placerad på en kyrkogård i Sverige [karta](https://w.wiki/6keB)/[lista](https://w.wiki/6ke8) > 5000
 
 
 <img width="960" alt="image" src="https://github.com/salgo60/GravarSverige/assets/14206509/47c67948-8707-4d69-90bf-b78362aa01c5">
