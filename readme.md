@@ -22,5 +22,5 @@ Vi har idag ung 4000 svenska gravar med kooridinat min känsla är att koordinat
 <img width="960" alt="image" src="https://github.com/salgo60/GravarSverige/assets/14206509/47c67948-8707-4d69-90bf-b78362aa01c5">
 
 ## Wikidata - what is it
-* [Wikidata what is it video](https://www.youtube.com/watch?v=m_9_23jXPoE) - url [www.wikidata.org](https://www.wikidata.org/wiki/Wikidata:Main_Page))
+* [Wikidata what is it video](https://www.youtube.com/watch?v=m_9_23jXPoE) - url [www.wikidata.org](https://www.wikidata.org/wiki/Wikidata:Main_Page)
 * [Linked data what is it](https://vimeo.com/36752317) and why is it good for me
