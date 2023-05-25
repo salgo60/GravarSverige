@@ -1,4 +1,4 @@
-### Rep för Grava i Sverige
+### Rep för Gravar i Sverige
 
 Status idag
 * [ ] [#1 Länkröta](https://github.com/salgo60/GravarSverige/issues/1) Vi länkar SvenkaGravar.se på många men **enormt med länkröta** dom förstår inte persisena identifierare
