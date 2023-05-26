@@ -11,6 +11,10 @@ Status idag
 
 <img width="960" alt="image" src="https://github.com/salgo60/GravarSverige/assets/14206509/bc2fdcda-e59e-43b0-a9ba-82bf3a950f53">
 
+* [Gravsatta. Sverige](https://sv.wikipedia.org/wiki/Kategori:Gravsatta_i_Sverige) > 10900 gravar
+   * visningsstatistik 2022
+
+
 ### Wikidata kyrkogårdar
 
 OBS allt d[ata i Wikidata är fritt att använda CC:0](https://www.wikidata.org/wiki/Wikidata:Licensing)
