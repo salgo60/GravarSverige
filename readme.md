@@ -5,6 +5,12 @@ Status idag
 * [X] "Alla" svenska kyrkogårdar finns många med koppling kyrka, findagrave släktforskarförbundets gravar, Flygfoto, Foto, koordinat, Open Street Map, WikiTree se rep [Gravstensinventeringen-Wikidata](https://github.com/salgo60/Gravstensinventeringen-Wikidata)
 * [ ] ...
 
+### Svenska Wikipedia
+* [Gravsatta_på_Norra_begravningsplatsen_i_Stockholm](https://sv.wikipedia.org/wiki/Kategori:Gravsatta_p%C3%A5_Norra_begravningsplatsen_i_Stockholm) > 3500 personer har artikel på Wikipedia
+   * [visningsstatistik 2022](https://pageviews.wmcloud.org/massviews/?platform=all-access&agent=user&source=category&range=last-year&subjectpage=0&subcategories=0&sort=views&direction=1&view=list&target=https://sv.wikipedia.org/wiki/Kategori:Gravsatta_p%25C3%25A5_Norra_begravningsplatsen_i_Stockholm) = 	3 331 647
+
+<img width="960" alt="image" src="https://github.com/salgo60/GravarSverige/assets/14206509/bc2fdcda-e59e-43b0-a9ba-82bf3a950f53">
+
 ### Wikidata kyrkogårdar
 
 OBS allt d[ata i Wikidata är fritt att använda CC:0](https://www.wikidata.org/wiki/Wikidata:Licensing)
