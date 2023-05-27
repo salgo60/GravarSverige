@@ -7,13 +7,13 @@ Status idag
 
 ### Svenska Wikipedia
 * [Gravsatta_på_Norra_begravningsplatsen_i_Stockholm](https://sv.wikipedia.org/wiki/Kategori:Gravsatta_p%C3%A5_Norra_begravningsplatsen_i_Stockholm) > 3500 personer har artikel på Wikipedia
-   * [visningsstatistik 2022](https://pageviews.wmcloud.org/massviews/?platform=all-access&agent=user&source=category&range=last-year&subjectpage=0&subcategories=0&sort=views&direction=1&view=list&target=https://sv.wikipedia.org/wiki/Kategori:Gravsatta_p%25C3%25A5_Norra_begravningsplatsen_i_Stockholm) = 	3 331 647
+   * [visningsstatistik 2022](https://pageviews.wmcloud.org/massviews/?platform=all-access&agent=user&source=category&range=last-year&subjectpage=0&subcategories=0&sort=views&direction=1&view=list&target=https://sv.wikipedia.org/wiki/Kategori:Gravsatta_p%25C3%25A5_Norra_begravningsplatsen_i_Stockholm) = 	**3 331 647**
 
 <img width="960" alt="image" src="https://github.com/salgo60/GravarSverige/assets/14206509/bc2fdcda-e59e-43b0-a9ba-82bf3a950f53">
 
 * [Gravsatta. Sverige](https://sv.wikipedia.org/wiki/Kategori:Gravsatta_i_Sverige) > 10900 gravar
-   * visningsstatistik 2022
-
+   * [visningsstatistik 2022](https://pageviews.wmcloud.org/massviews/?platform=all-access&agent=user&source=category&range=this-year&subjectpage=0&subcategories=1&sort=views&direction=1&view=list&target=https://sv.wikipedia.org/wiki/Kategori:Gravsatta_i_Sverige) = **5 091 319**
+<img width="960" alt="image" src="https://github.com/salgo60/GravarSverige/assets/14206509/7382ff5e-837e-4388-ac0d-9c6f0360da03">
 
 ### Wikidata kyrkogårdar
 
