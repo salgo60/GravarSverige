@@ -6,6 +6,10 @@ Status idag
 * [ ] ...
 
 ### Svenska Wikipedia
+**User Case**: Behräfta graven med en trovärdig källa gärna koordinat, bild...
+
+Exempel vad som finns i svenska Wikipedia idag då det gäller gravar
+
 * [Gravsatta_på_Norra_begravningsplatsen_i_Stockholm](https://sv.wikipedia.org/wiki/Kategori:Gravsatta_p%C3%A5_Norra_begravningsplatsen_i_Stockholm) > 3500 personer har artikel på Wikipedia
    * [visningsstatistik 2022](https://pageviews.wmcloud.org/massviews/?platform=all-access&agent=user&source=category&range=last-year&subjectpage=0&subcategories=0&sort=views&direction=1&view=list&target=https://sv.wikipedia.org/wiki/Kategori:Gravsatta_p%25C3%25A5_Norra_begravningsplatsen_i_Stockholm) = 	**3 331 647**
 
@@ -16,8 +20,9 @@ Status idag
 <img width="960" alt="image" src="https://github.com/salgo60/GravarSverige/assets/14206509/7382ff5e-837e-4388-ac0d-9c6f0360da03">
 
 ### Wikidata kyrkogårdar
+* [Wikidata är ett datalager till Wikipedia](https://www.youtube.com/watch?v=m_9_23jXPoE) - url [www.wikidata.org](https://www.wikidata.org/wiki/Wikidata:Main_Page) --> finns frågespråk SPARQL.... har idag ca. [12000 aktiva användare](https://stats.wikimedia.org/#/wikidata.org), [Wikidata hur det kom till 2012](https://www.youtube.com/watch?v=P3-nklyrDx4&t=57s) - _the most edited wiki in the world_
 
-OBS allt d[ata i Wikidata är fritt att använda CC:0](https://www.wikidata.org/wiki/Wikidata:Licensing)
+OBS allt [data i Wikidata är fritt att använda CC:0](https://www.wikidata.org/wiki/Wikidata:Licensing)
 
 * [karta](https://w.wiki/6kdW) / [lista](https://w.wiki/6kd4)
 <img width="1385" alt="image" src="https://github.com/salgo60/GravarSverige/assets/14206509/771bf257-d22c-462d-bf89-ca86d9aaf077">
